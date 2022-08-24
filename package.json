@@ -1,6 +1,6 @@
 {
   "name": "spin_task_logger",
-  "homepage":"https://github.com/fiveCubes/SpinTaskLogger",
+  "homepage":"https://fivecubes.github.io/SpinTaskLogger",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
