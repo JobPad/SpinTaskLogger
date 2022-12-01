@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/SpinTaskLogger/precache-manifest.49550aa68f9f8390d38ce46ebdb657c1.js"
+  "/SpinTaskLogger/precache-manifest.b283baf46aa0bd2d999c22231cae6609.js"
 );
 
 workbox.clientsClaim();
