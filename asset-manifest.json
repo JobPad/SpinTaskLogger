@@ -1,7 +1,7 @@
 {
   "main.css": "/SpinTaskLogger/static/css/main.5cf3abf3.chunk.css",
-  "main.js": "/SpinTaskLogger/static/js/main.4c989a47.chunk.js",
-  "main.js.map": "/SpinTaskLogger/static/js/main.4c989a47.chunk.js.map",
+  "main.js": "/SpinTaskLogger/static/js/main.09413fe1.chunk.js",
+  "main.js.map": "/SpinTaskLogger/static/js/main.09413fe1.chunk.js.map",
   "runtime~main.js": "/SpinTaskLogger/static/js/runtime~main.10e5ad39.js",
   "runtime~main.js.map": "/SpinTaskLogger/static/js/runtime~main.10e5ad39.js.map",
   "static/css/2.f415dd3f.chunk.css": "/SpinTaskLogger/static/css/2.f415dd3f.chunk.css",
@@ -10,7 +10,7 @@
   "static/js/3.1cdbb2d5.chunk.js": "/SpinTaskLogger/static/js/3.1cdbb2d5.chunk.js",
   "static/js/3.1cdbb2d5.chunk.js.map": "/SpinTaskLogger/static/js/3.1cdbb2d5.chunk.js.map",
   "index.html": "/SpinTaskLogger/index.html",
-  "precache-manifest.b283baf46aa0bd2d999c22231cae6609.js": "/SpinTaskLogger/precache-manifest.b283baf46aa0bd2d999c22231cae6609.js",
+  "precache-manifest.2260e9c38cf8bcbd2d56cbe29e4185d2.js": "/SpinTaskLogger/precache-manifest.2260e9c38cf8bcbd2d56cbe29e4185d2.js",
   "service-worker.js": "/SpinTaskLogger/service-worker.js",
   "static/css/2.f415dd3f.chunk.css.map": "/SpinTaskLogger/static/css/2.f415dd3f.chunk.css.map",
   "static/css/main.5cf3abf3.chunk.css.map": "/SpinTaskLogger/static/css/main.5cf3abf3.chunk.css.map",
